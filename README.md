@@ -1,4 +1,5 @@
 # my-demo
 my first project
 <br>
-Author Mathew Lobo
+Author Mathew (Teesside)
+
